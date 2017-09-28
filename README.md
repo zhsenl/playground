@@ -1,4 +1,5 @@
 # playground
-
-This is my personal project in my spare time. I do it just for fun and hope it will last serveral years.
-I hav'nt decided what to do yet, but I will focus something on machine learning and system programming. 
+模仿实现
+1. grpc
+2. glog
+3. protobuf
